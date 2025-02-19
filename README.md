@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muzammiluddin-Syed-ECE
-- 👀 I’m interested in full stack programming, devops, and embedded systems!
-- 🌱 I’m currently learning about how I can make my own static site generator
+- 👀 I like hardware things and compiler things
+- 🌱 I’m currently learning about how I can make my own blog and build my brand
 - 💞️ I’m looking to collaborate on upcoming hackathons!
 - 📫 How to reach me: m38syed@uwaterloo.ca
 
